@@ -1,2 +1,2 @@
 # hello-word
-first project
+first project, my name oanh
